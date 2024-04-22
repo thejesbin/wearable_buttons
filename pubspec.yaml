@@ -1,7 +1,7 @@
 name: wearable_buttons
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/thejesbin/wearable_buttons.git
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
