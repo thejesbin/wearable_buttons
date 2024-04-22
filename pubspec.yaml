@@ -1,5 +1,5 @@
 name: wearable_buttons
-description: "A new Flutter plugin project."
+description: "Flutter plugin that can fetch total count of physical buttons and allows access to information about each physical button."
 version: 0.0.1
 homepage: https://github.com/thejesbin/wearable_buttons.git
 
